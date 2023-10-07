@@ -1,5 +1,6 @@
 # Alireza Lorestani
 - Computer Engineering student at Ferdowsi university of Mashhad 💻
+- Quality Systems Engineering at Concordia University
 - Android Developer 📱
 ## Contact me : 
 - email: alirezalorestani2010@gmail.com 
